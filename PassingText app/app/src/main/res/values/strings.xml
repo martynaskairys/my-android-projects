@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="chooser_title">share this text with</string>
+</resources>
